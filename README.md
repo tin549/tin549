@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tín</h1>
+<h3 align="center">💻 Developer_WEB-APP</h3>
 
-<!--
-**tin549/tin549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🌱 I’m currently learning **PHP,Flutter (Java/Kotlin)**  
+- 🔭 I’m working on: **Streak App**, **TeaManage**, **ShopOnline**, and more  
+- 💬 Ask me about **Javascript, Android,Php, React Native, SQL, Firebase**  
+- 🎯 Goal 2026: Become a **full-stack developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Contact Me
+- Email: sceremix@gmail.com  
+- Facebook: https://www.facebook.com/tin.nguyen.299192
+
+---
+
+## 🔧 Technologies & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,react,ts,nodejs,mysql,git,github,vscode,firebase&perline=6" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align=\"center\">
+  <img src=\"https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10&row=1\" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+<p align=\"center\">
+  <img src=\"https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight\" />
+</p>
+
+---
+
+
+## ✨ Fun Facts
+- 🎾 Mình thích **tennis** và đang là coach
+- 📷 Mình làm nhiều project về **camera, chụp ảnh, gallery**  
+- 🤖 Mình đang xây dựng **robot cố vấn sức khỏe**  
+
+
+### ⭐ If you like my work, give me a star on GitHub!  
