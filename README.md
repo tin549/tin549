@@ -22,29 +22,8 @@
   <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,react,ts,nodejs,mysql,git,github,vscode,firebase&perline=6" />
 </p>
 
----
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
 
----
-
-## 🏆 GitHub Trophies
-<p align=\"center\">
-  <img src=\"https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10&row=1\" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-<p align=\"center\">
-  <img src=\"https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight\" />
-</p>
-
----
 
 
 ## ✨ Fun Facts
