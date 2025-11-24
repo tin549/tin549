@@ -3,7 +3,7 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/xT5LMsoU7U1T2tYy8w/giphy.gif" alt="Typing SVG" />
+  <img src="https://giphy.com/gifs/forest-cinemagraph-waterfalls-1lRrsraIsEYRW" alt="Typing SVG" />
 </p>
 
 ---
