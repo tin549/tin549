@@ -3,7 +3,7 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/xT5LMsoU7U1T2tYy8w/giphy.gif" alt="Typing SVG" />
+  <img src="" alt="Typing SVG" />
 </p>
 
 ---
