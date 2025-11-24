@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Tín</h1>
+<h1 align="center",>Hi 👋, I'm Tín</h1>
 <h3 align="center">💻 Developer_WEB-APP</h3>
 
+---
+<p align="center">
+  <img src="https://www.pinterest.com/pin/40954677856966847/" width="80"/>
+</p>
 ---
 
 ### 🚀 About Me
