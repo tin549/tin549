@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning **PHP,Flutter (Java/Kotlin)**  
 - 🔭 I’m working on: **Streak App**, **TeaManage**, **ShopOnline**, and more  
 - 💬 Ask me about **Javascript, Android,Php, React, SQL, Firebase**  
-- 🎯 Goal 2026: Become a **full-stack developer**
 
 ---
 
